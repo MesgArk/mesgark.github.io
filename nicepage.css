@@ -3,6 +3,13 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2021 Froala Labs
  */
+ 
+/* iconos de redes sociales */
+.rrss {
+  width: 200px;
+	padding: 25px 0;
+	margin: 0;
+}
 
 .fr-clearfix::after {
   clear: both;

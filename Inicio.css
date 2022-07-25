@@ -1,4 +1,11 @@
- .u-section-1 {
+/* iconos de redes sociales */
+.rrss {
+  width: 200px;
+	padding: 25px 0;
+	margin: 0;
+}
+
+.u-section-1 {
   min-height: 700px;
 }
 

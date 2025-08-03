@@ -4,7 +4,7 @@
 
 .u-section-1 .u-text-1 {
   font-weight: 900;
-  margin: 12px 921px 30px 14px;
+  /*margin: 12px; /*921px 30px 14px;*/
 }
 
 @media (max-width: 1199px) {
